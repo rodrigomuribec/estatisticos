@@ -1,2 +1,2 @@
-# estatisticos
-Repositório dos amigos estatísticos 
+# Análise de Dados sobre Filmes
+Neste repositório são realizadas anlises estatsticas sobre filmes. 
