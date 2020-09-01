@@ -8,3 +8,4 @@ dados <- iris
 head(dados)
 
 #comentario feito no github
+dados %>% ggplot(aes(Species)) + geom_bar()
