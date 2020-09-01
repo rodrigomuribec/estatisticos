@@ -6,3 +6,5 @@ dados <- iris
 
 #verificando o dataset
 head(dados)
+
+#comentario feito no github
